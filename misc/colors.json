@@ -1,0 +1,25 @@
+{
+    "colors": {
+        "red": "FF0000",
+        "pink": "FF0000",
+        "orange": "FFA500",
+        "yellow": "FFFF00",
+        "purple": "6A5ACD",
+        "green": "37ff0f",
+        "blue": "0000FF"
+    },  
+      
+    "otherColors": {
+        "gold": "FFD700", 
+        "cyan": "00FFFF" ,
+        "uwuBlue": "4682B4",
+        "black": "000000",
+        "white": "#FFFFFF"
+    },
+
+    "presets": {
+        "error": "FF0000",
+        "done": "37ff0f",
+        "almost": "FFFF00"
+    }
+}
